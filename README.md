@@ -10,7 +10,7 @@ Vintage Americana. Field-khaki black, parchment text, Old Glory red, faded canto
 
 ![USA on the desktop](screenshot.webp)
 
-![All 5 backgrounds with file names and sizes](backgrounds-grid.webp)
+![All 3 backgrounds with file names and sizes](backgrounds-grid.webp)
 
 ## Palette
 
@@ -51,10 +51,8 @@ Backgrounds cycle with Super+Ctrl+Space.
 | File | Size | Shot | Source |
 |------|------|------|--------|
 | `0-iwo-jima-color.jpg` | 3840×2160 (4K) | Iwo Jima flag raising, colorized, 16:9 crop **(default)** | [Commons](https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg) |
-| `1-iwo-jima.jpg` | 3840×2160 (4K) | Iwo Jima flag raising, original black and white, 16:9 crop | [Commons](https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg) |
-| `2-apollo-11-moon.jpg` | 3840×2160 (4K) | Buzz Aldrin and the flag, Apollo 11, 1969 (AS11-40-5875) | [Commons](https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_the_US_flag_on_the_Moon,_AS11-40-5875.jpg) |
-| `3-statue-of-liberty.jpg` | 3840×2160 (4K) | Statue of Liberty torch and crown, blue sky | [Commons](https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_New_York,_New_York_LCCN2011630662.tif) |
-| `4-iwo-jima-color-full.jpg` | 2959×2241 | Iwo Jima flag raising, colorized, uncropped | [Commons](https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg) |
+| `1-apollo-11-moon.jpg` | 3840×2160 (4K) | Buzz Aldrin and the flag, Apollo 11, 1969 (AS11-40-5875) | [Commons](https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_the_US_flag_on_the_Moon,_AS11-40-5875.jpg) |
+| `2-statue-of-liberty.jpg` | 3840×2160 (4K) | Statue of Liberty torch and crown, blue sky | [Commons](https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_New_York,_New_York_LCCN2011630662.tif) |
 
 Iwo Jima was colorized with Grok Imagine. Its color was then laid on the original full-resolution luminance in Lab, so every detail is Rosenthal's and only the color is the model's. A face the model invented beside the leftmost Marine was neutralized back to sky.
 
