@@ -1,0 +1,40 @@
+mode = "dark"
+
+# USA: Raising the Flag on Iwo Jima, Joe Rosenthal, 1945.
+# Vintage Americana. Field-khaki black, parchment text, Old Glory red, faded canton blue.
+# Square corners, hairline borders.
+
+accent = "#C8323F"
+selection = "#3A3226"
+muted = "#6B604E"
+
+background = "#16130E"
+dark_background = "#110F0B"
+darker_background = "#0B0A07"
+lighter_background = "#24201A"
+
+foreground = "#E9E2CF"
+dark_foreground = "#8A7F68"
+light_foreground = "#D6CDB6"
+bright_foreground = "#FFF8E7"
+
+hyprland_active_border = "rgba(c8323fee) rgba(e9e2cfee) rgba(4f74a8ee) 45deg"
+hyprland_inactive_border = "rgba(24201a66)"
+active_border_color = "#C8323F"
+active_tab_background = "#24201A"
+
+red = "#C8323F"
+yellow = "#D4A94F"
+orange = "#D2733A"
+green = "#8A9A5B"
+cyan = "#7FA6A3"
+blue = "#4F74A8"
+magenta = "#A8677A"
+brown = "#8B6B3E"
+
+bright_red = "#E5545F"
+bright_yellow = "#E9C877"
+bright_green = "#A9B97A"
+bright_cyan = "#A2C4C0"
+bright_blue = "#7799C8"
+bright_magenta = "#C78A9B"
