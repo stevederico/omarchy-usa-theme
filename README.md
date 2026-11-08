@@ -10,7 +10,7 @@ Vintage Americana. Field-khaki black, parchment text, Old Glory red, faded canto
 
 ![USA on the desktop](screenshot.webp)
 
-![All 3 backgrounds with file names and sizes](backgrounds-grid.webp)
+![All 7 backgrounds with file names and sizes](backgrounds-grid.webp)
 
 ## Palette
 
@@ -53,11 +53,17 @@ Backgrounds cycle with Super+Ctrl+Space.
 | `0-iwo-jima-color.jpg` | 3840×2160 (4K) | Iwo Jima flag raising, colorized, 16:9 crop **(default)** | [Commons](https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg) |
 | `1-apollo-11-moon.jpg` | 3840×2160 (4K) | Buzz Aldrin and the flag, Apollo 11, 1969 (AS11-40-5875) | [Commons](https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_the_US_flag_on_the_Moon,_AS11-40-5875.jpg) |
 | `2-statue-of-liberty.jpg` | 3840×2160 (4K) | Statue of Liberty torch and crown, blue sky | [Commons](https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_New_York,_New_York_LCCN2011630662.tif) |
+| `3-jfk-pointing.jpg` | 566×318 | John F. Kennedy pointing above a starred flag, black and white, 16:9 crop | Unknown |
+| `4-jet-formation.jpg` | 1012×569 | Four jets in formation with contrails, film light leak, 16:9 crop | Unknown |
+| `5-rocket-launch-flag.jpg` | 683×384 | Rocket launch behind a US flag, 16:9 crop | Unknown |
+| `6-cowboy-sunset.jpg` | 810×456 | Cowboy on horseback at sunset, 16:9 crop | Unknown |
 
 Iwo Jima was colorized with Grok Imagine. Its color was then laid on the original full-resolution luminance in Lab, so every detail is Rosenthal's and only the color is the model's. A face the model invented beside the leftmost Marine was neutralized back to sky.
 
-Credits, all listed public domain on Wikimedia Commons:
+Credits for 0 to 2, all listed public domain on Wikimedia Commons:
 
 - Iwo Jima: Joe Rosenthal / Associated Press, 1945
 - Apollo 11: NASA, 1969
 - Statue of Liberty: Carol M. Highsmith, Library of Congress
+
+Backgrounds 3 to 6 have no source or license recorded yet. They are low resolution, cropped to 16:9 from smaller originals (three were portrait).
