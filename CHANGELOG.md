@@ -1,6 +1,13 @@
 # To-do
 
 - Extra Americana stills
+- Credit stills 3-6
+- Upscale stills 3-6
+
+0.3.0
+
+  Add four backgrounds
+  Regenerate backgrounds grid
 
 0.2.0
 
